@@ -1,12 +1,23 @@
 # Solana-Smart-contract-project-
-This project demonstrates a basic Solana smart contract that implements a token contract. The contract allows users to mint, transfer, and burn tokens.  Technologies Used - Solana - Rust - JavaScript
+## Overview
 
-Solana-Smart-Contract-Project/
-├── contracts/
-│   └── token_contract.rs
-├── scripts/
-│   └── deploy_contract.js
-├── tests/
-│   └── token_contract_test.js
-├── README.md
-└── .gitignore
+This project showcases a simple Solana smart contract written in Rust that implements a basic token system. Users can mint, transfer, and burn tokens securely on the Solana blockchain.
+
+---
+
+## 🛠 Technologies Used
+
+- **Solana** (Anchor Framework)
+- **Rust**
+- **JavaScript** (for scripts and tests)
+- **Node.js**
+
+---
+
+##  Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/Solana-Smart-Contract-Project.git
+cd Solana-Smart-Contract-Project
